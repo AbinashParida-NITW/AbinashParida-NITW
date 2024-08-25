@@ -1,6 +1,6 @@
 # Hi, I'm Abinash Parida (@AbinashParida-NITW)
 
-👀 **Interests:** AI, Machine Learning, Deep Learning, Generative AI
+👀 **Interests:** Data Science, Data Analytics ,AI, Machine Learning, Deep Learning, Generative AI
 
 🌱 **Currently Learning:** Generative AI (GENAI)
 
