@@ -8,6 +8,7 @@
 
 📫 **How to Reach Me:**
 - Email: ap22phc1r05@student.nitw.ac.in
+- Email: abinashparida345@gmail.com
 - Phone: +91 7847900599
 
 😄 **Pronouns:** He/Him
