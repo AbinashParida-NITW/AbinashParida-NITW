@@ -2,7 +2,7 @@
 
 👀 **Interests:** Data Science, Data Analytics ,AI, Machine Learning, Deep Learning, Generative AI
 
-🌱 **Currently Learning: **Generative AI (GENAI)** 
+🌱 **Currently Learning: **Generative AI (GENAI) RAG** 
 
 💞️ **Looking to Collaborate On:** AI/ML/DL projects and innovative GENAI applications.
 
