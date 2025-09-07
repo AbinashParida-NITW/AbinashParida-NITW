@@ -2,7 +2,7 @@
 
 👀 **Interests:** Data Science, Data Analytics ,AI, Machine Learning, Deep Learning, Generative AI
 
-🌱 **Currently Learning: **Generative AI (GENAI) RAG** 
+🌱 **Currently Learning: **Agentic AI** 
 
 💞️ **Looking to Collaborate On:** AI/ML/DL projects and innovative GENAI applications.
 
@@ -12,8 +12,6 @@
 - Phone: +91 7847900599
 
 😄 **Pronouns:** He/Him
-
-⚡ **Fun Fact:** I achieved All India Rank 1 in SQL on HackerRank!
 
 
 <!---
